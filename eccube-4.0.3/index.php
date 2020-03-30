@@ -1,4 +1,5 @@
 <?php
+echo "福田死ね！";
 
 use Eccube\Kernel;
 use Symfony\Component\Debug\Debug;
